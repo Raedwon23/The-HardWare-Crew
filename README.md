@@ -1,2 +1,2 @@
 # The-HardWare-Crew
-made with basic bootstrap and a free template
+made with basic bootstrap 
